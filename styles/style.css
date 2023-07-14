@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+    color: #FFFFFF;
+}
+.title{
+    margin-top: 42px;
+    margin-left: 58px;}
+
+.forms{
+    width: 963px;
+    margin-top: 18px;
+  
+}
+
+.text, .email,  .phone, .button, .services{
+    width: 419px;
+    height: 76px;
+    border-radius: 15px;
+    color: #191A1980;
+    text-align: center;
+    
+}
+
+
+
+
+.space{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 18px;
+
+}
+
+
+
+.button{
+    width: 586px;
+
+    background-color: #191A19;
+    color: white;
+   
+    margin-left: 53px;
+    margin-bottom: 45px;
+ 
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.right-wrapper{
+    width: 499px;
+    margin-left: 41px;
+    padding-top: 42px;
+    padding-left: 64px;
+}
+
+.left-wrapper, .right-wrapper{
+    background-color: #FF7420;
+    border-radius: 15px;
+
+}
+
+
+
+.right-wrapper h3, .title h3{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.right-wrapper p, .title p{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.right-wrapper li{
+    font-family: poppins;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+
+
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+}
